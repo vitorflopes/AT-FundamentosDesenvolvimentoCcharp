@@ -1,0 +1,2 @@
+# AT-FundamentosDesenvolvimentoCcharp
+ Esse projeto será uma aplicação para o Gerenciamento de Aniversários de Amigos. Assim que a aplicação é iniciada, ela deve exibir os amigos que fazem aniversário na data atual. A aplicação deve permitir que o usuário cadastre aniversários de novos amigos, apague ou atualize aniversários de amigos cadastrados. Também deve permitir buscar nomes de amigos por uma palavra-chave, e ao exibir os dados de um amigo deve exibir também quanto tempo falta para o próximo aniversário do mesmo.
